@@ -42,10 +42,10 @@ You must include a file that stores:
 - events or objects on the board
 
 Example format:
-3: Player1
-4: Player2
-17: Hotel
-20: Troll
+-3: Player1
+-4: Player2
+-17: Hotel
+-20: Troll
 
 
 You may design your own format, but it must be:
