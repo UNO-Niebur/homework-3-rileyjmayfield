@@ -1,0 +1,22 @@
+=== Rules ===
+
+Board has 40 spaces
+Each round the 10 traps and 4 heals appear at a random spaces #not all added into events
+Players start with 3 hearts
+
+
+=== Player Turn ===
+Roll a dice to move or draw an item card or use as many item cards as you want
+If you land on a heal gain a heart
+If you land on a trap draw a trap card and do what it says
+    things like lose a heart, go back etc
+If you draw an item card you lose the chane to move on that turn, but next turn instead of rolling you can play a card
+    things like swap places with a player, roll 2 dice this turn etc
+Some item cards will prevent a trap or cause a trap
+If you lose all your hearts discard all cards and go back to beginning with 2 hearts
+    If it happens again, restart with 1 heart and no cards
+
+At the moment only allows for landing on a trap
+
+== Winning ==
+Player who reaches the end wiht the most hearts

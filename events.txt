@@ -1,7 +1,13 @@
 Turn: Player1
+Player1- Hearts2
+Player2- Hearts2
+Player3-Hearts3
+1: Start
 3: Player1
+6: Trap
 7: Player2
 12: Treasure
 18: Trap
 22: Player3
 27: Heal
+40: End
